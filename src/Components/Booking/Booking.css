@@ -1,0 +1,8 @@
+.cart{
+    border: 5px double gray;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    margin: 5px;
+    padding: 5px;
+}
