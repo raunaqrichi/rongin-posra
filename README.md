@@ -1,6 +1,6 @@
 # Getting Started with Rongin-Posra
 
-This project was bootstrapped with [Rongin-Posra]](https://heavenly-touch.web.app/).
+This project was bootstrapped with [Rongin-Posra]](https://rongin-posra.web.app/).
 
 ## Some Advantages
 1. This is a jwellary related website.
